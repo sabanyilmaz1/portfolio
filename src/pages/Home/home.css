@@ -1,0 +1,47 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  min-height: 50vh;
+  max-width: 100%;
+  height: 55%;
+  background: #fddc2b;
+  padding: 2%;
+  padding-left: 5%;
+  z-index: 100;
+}
+
+.title {
+  font-family: Urbanist, sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 70px;
+  line-height: 86px;
+  color: #6b4c5a;
+}
+
+.description {
+  width: 40%;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6b4c5a;
+}
+
+.btnAboutMe {
+  width: 15%;
+  height: 50px;
+  font-size: 17px;
+  font-style: bold;
+  font-family: 'Urbanist';
+  background: #ffffff;
+  border-radius: 40px;
+  border-width: 7px;
+  border-color: #6b4c5a;
+  color: #6b4c5a;
+}
+
+.a {
+  text-decoration: none;
+}

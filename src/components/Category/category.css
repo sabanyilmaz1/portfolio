@@ -1,0 +1,15 @@
+.category {
+  background: #ffffff;
+  border-radius: 15px;
+  width: 10%;
+  height: 10%;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #6b4c5a;
+  padding: 0.5%;
+  margin-right: 1%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,9 @@
+.container {
+  /* Rectangle 1 */
+  width: 20%;
+  height: 90%;
+  margin-left: 50px;
+  margin-top: 22px;
+  background: white;
+  border-radius: 35px;
+}
